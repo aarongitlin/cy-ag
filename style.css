@@ -497,7 +497,7 @@ Article view: [id*="writing-"] becomes [id*="journal-"]
 .notion-collection-list__item:hover {
   background-color: transparent !important;
 }
-.notion-collection-list__item .property-3b755650 .notion-semantic-string {
+.notion-collection-list__item .property-32386666616431622d386166362d343666352d626261612d356365333861343632656237 .notion-semantic-string {
   text-decoration: none !important;
   background-image: linear-gradient(rgba(255,255,255,0), rgba(255,255,255,0)) !important;
   background-size: 100% 1px !important;
@@ -505,7 +505,7 @@ Article view: [id*="writing-"] becomes [id*="journal-"]
   background-repeat: no-repeat !important;
   text-shadow: 1px 0px var(--color-bg-default), -1px 0px var(--color-bg-default), 0px -1px var(--color-bg-default), 0px 1px var(--color-bg-default);
 }
-.notion-collection-list__item:hover .property-3b755650 .notion-semantic-string {
+.notion-collection-list__item:hover .property-32386666616431622d386166362d343666352d626261612d356365333861343632656237 .notion-semantic-string {
   background-image: linear-gradient(var(--color-text-gray), var(--color-text-gray)) !important;
 }
 
