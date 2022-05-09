@@ -530,7 +530,7 @@ Article view: [id*="writing-"] becomes [id*="journal-"]
 
 /* Hides page title -- commenting out to debut */
 .notion-collection-list__item .notion-property__title .notion-semantic-string {
-/*   display: none !important; */
+   display: none !important;
 }
 
 /* Resets font size of date */
