@@ -11,7 +11,7 @@ html {
   --color-text-gray: #959BA9 !important;
   --color-border-default: rgba(23,23,24,0.15) !important;
   --collection-card-cover-size-large: 210px !important;
-  --font-family-primary: 'Brygada 1918', serif; !important;
+  --font-family-primary: 'Brygada 1918', serif !important;
   --font-family-secondary: 'Space Grotesk', sans-serif !important;
 }
 @media screen and (min-width: 50em) {
