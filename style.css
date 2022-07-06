@@ -561,21 +561,7 @@ Article view: [id*="writing-"] becomes [id*="journal-"]
 .notion-collection-list__item-property .property-32386666616431622d386166362d343666352d626261612d356365333861343632656237 {
   margin: 0.5em 0 1em !important;
 }
-.notion-collection-list__item-property .property-32386666616431622d386166362d343666352d626261612d356365333861343632656237 .notion-semantic-string {
-  font-family: var(--font-family-secondary) !important;
-  font-weight: 200 !important;
-  font-size: 1.875rem !important;
-  letter-spacing: -0.01em !important;
-  line-height: 1.25 !important;
-  border-bottom: 1px solid transparent !important;
-  transition: border-color .2s ease-in;
-}
-@media screen and (min-width: 32em) {
-  .notion-collection-list__item-property .property-32386666616431622d386166362d343666352d626261612d356365333861343632656237 .notion-semantic-string {
-    font-size: 2.111rem !important;
-    line-height: 1.15 !important;
-  }
-}
+
 
 /* Uses Notion’s file property to display featured image for article */
 .notion-collection-list__item-property .notion-property__file a > div, .notion-collection-list__item-property .notion-property__file img {
