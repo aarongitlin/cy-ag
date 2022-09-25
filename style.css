@@ -798,6 +798,10 @@ blockquote .notion-semantic-string {
 .notion-header__title {
   display: none;
 }
+/* Get rid of notion page title */
+.notion-header.page {
+  display: none !important;
+}
 
 /* make the italics in my headline a different font */
 #block-be138e134f824951968934eecb81e588 em {
@@ -1115,10 +1119,7 @@ h2.notion-heading .notion-semantic-string {
 }
 
 /* make only title underline on hover */
-/* Get rid of notion page title */
-.notion-header.page {
-  display: none;
-}
+
 
 /************ Projects index page */
 
