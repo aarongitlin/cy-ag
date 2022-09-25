@@ -1009,10 +1009,6 @@ h2.notion-heading .notion-semantic-string {
   /*********** home page */
 
 /* home page intro heading */
-#block-be138e134f824951968934eecb81e588 {
-  margin-left: -5vw;
-  margin-right: -5vw;
-}
 
 #block-be138e134f824951968934eecb81e588 .notion-semantic-string {
   font-size: calc(1rem + (100vw / 40)) !important;
@@ -1025,16 +1021,14 @@ h2.notion-heading .notion-semantic-string {
     min-width: 144px;
     max-width: 15%;
     height: 22vh;
-    margin-left: -5vw;
+
   }
   #block-b6a18d440986443883b333e038eb5de3 img {
     height: auto;
   }
   /* text under heading */
 
-  #block-2d1af0fa008540a4a05f5ff8d7d4d7ee {
-    margin-left: -5vw;
-  }
+
 
 /* recent work gallery */
 .notion-collection-gallery.large {
