@@ -778,17 +778,17 @@ animation: fadeIn 1.2s cubic-bezier(0.390, 0.575, 0.565, 1.000) 1s both;
 /* Edits imported from Stylebot – def need to clean up */
 /* image settings */
 :root {
---collection-card-cover-size-large: 350px;
+--collection-card-cover-size-large: 350px !important;
 }
 
 /* color */
 :root {
-  --color-bg-default: #fbfaf7;
+  --color-bg-default: #fbfaf7 !important;
 }
 
 /*fonts */
 :root {
-  --color-text-default: #06061F;
+  --color-text-default: #06061F !important;
 }
 .notion-property__date, .notion-property__select {
   font-family: var(--font-family-secondary) !important;
