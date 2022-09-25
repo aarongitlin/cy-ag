@@ -813,6 +813,11 @@ blockquote .notion-semantic-string {
 
 @media screen and (max-width: 479px) {
 
+.notion-text__content, .notion-text__content .notion-semantic-string {
+  font-size: 1.1rem;
+  line-height: 1.8 !important;
+}
+  
 /************ Mobile Home */ 
 
 
@@ -967,7 +972,7 @@ h1.notion-heading .notion-semantic-string, .notion-page__property .notion-proper
 }
 
 .notion-text__content, .notion-text__content .notion-semantic-string {
-  font-size: 1.2rem;
+  font-size: 1.1rem;
   line-height: 1.8 !important;
 }
 h3.notion-heading .notion-semantic-string {
