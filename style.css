@@ -5,8 +5,8 @@ html {
 
 /* --- Change default colors --- */
 :root {
-  --color-bg-default: #F9F6F0 !important;
-  --color-text-default: #4B5673 !important;
+  --color-bg-default: #fbfaf7 !important;
+  --color-text-default: #06061F !important;
   --color-text-default-light: #959BA9 !important;
   --color-text-gray: #959BA9 !important;
   --color-border-default: rgba(23,23,24,0.15) !important;
@@ -16,7 +16,7 @@ html {
 }
 @media screen and (min-width: 50em) {
   :root {
-    --collection-card-cover-size-large: 270px !important;
+    --collection-card-cover-size-large: 350px !important;
   }
 }
 
@@ -777,19 +777,7 @@ animation: fadeIn 1.2s cubic-bezier(0.390, 0.575, 0.565, 1.000) 1s both;
 
 /* Edits imported from Stylebot – def need to clean up */
 /* image settings */
-:root {
---collection-card-cover-size-large: 350px !important;
-}
 
-/* color */
-:root {
-  --color-bg-default: #fbfaf7 !important;
-}
-
-/*fonts */
-:root {
-  --color-text-default: #06061F !important;
-}
 .notion-property__date, .notion-property__select {
   font-family: var(--font-family-secondary) !important;
 }
