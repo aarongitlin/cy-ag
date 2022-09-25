@@ -847,8 +847,12 @@ blockquote .notion-semantic-string {
 
   /**** Writing section */
 
+.notion-collection-list__item {
+  border-bottom: 1px solid var(--color-border-default);
+  }
+  
 .notion-collection-list__item-content .notion-property__text {
-  max-width: 100%;
+  max-width: 100% !important;
 }
 
 /* hide cover image */
@@ -942,6 +946,10 @@ blockquote .notion-semantic-string {
 
 @media screen and (min-width: 480px) {
 
+.notion-collection-list__item {
+  border-bottom: none !important;
+}
+  
 .notion-collection-list__item-property .property-32386666616431622d386166362d343666352d626261612d356365333861343632656237 .notion-semantic-string {
   font-family: var(--font-family-primary) !important;
   font-weight: 200 !important;
