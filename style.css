@@ -1210,5 +1210,5 @@ h2.notion-heading .notion-semantic-string {
 
 /* footer */
 .notion-collection-table__wrapper {
-  border-top: none;
+  border-top: none !important;
 }
